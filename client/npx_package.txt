@@ -1,0 +1,3 @@
+
+Upgrade all dependencies to match expo SDK 51:
+(npx expo install --fix)
